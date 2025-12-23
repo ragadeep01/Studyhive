@@ -1,0 +1,25 @@
+# Node
+node_modules/
+**/node_modules/
+
+# Videos & media
+*.mp4
+*.mov
+*.avi
+
+# Builds
+dist/
+build/
+
+# Uploads
+uploads/
+
+# Env
+.env
+
+# Python
+__pycache__/
+.venv/
+
+# OS
+.DS_Store
